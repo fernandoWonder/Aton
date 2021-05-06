@@ -1,0 +1,58 @@
+C:\Users\Administrador\3D Objects\Projectos\C#\Fenitech\Sistema_Venda\SellerPro\Domain.Domain\bin\Debug\Domain.Domain.dll.config
+C:\Users\Administrador\3D Objects\Projectos\C#\Fenitech\Sistema_Venda\SellerPro\Domain.Domain\bin\Debug\Domain.Domain.dll
+C:\Users\Administrador\3D Objects\Projectos\C#\Fenitech\Sistema_Venda\SellerPro\Domain.Domain\bin\Debug\Domain.Domain.pdb
+C:\Users\Administrador\3D Objects\Projectos\C#\Fenitech\Sistema_Venda\SellerPro\Domain.Domain\obj\Debug\Domain.Domain.dll
+C:\Users\Administrador\3D Objects\Projectos\C#\Fenitech\Sistema_Venda\SellerPro\Domain.Domain\obj\Debug\Domain.Domain.pdb
+C:\Users\Administrador\3D Objects\Projectos\C#\Fenitech\Sistema_Venda\SellerPro\Domain.Domain\obj\Debug\Domain.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Domain.Domain\bin\Debug\Domain.Domain.dll.config
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Domain.Domain\bin\Debug\Domain.Domain.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Domain.Domain\bin\Debug\Domain.Domain.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Domain.Domain\obj\Debug\Domain.Domain.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Domain.Domain\obj\Debug\Domain.Domain.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Domain.Domain\obj\Debug\Domain.Domain.csprojResolveAssemblyReference.cache
+C:\Users\JoseProg\Documents\Visual Studio 2015\Projects\V.1.0.1\SellerPro\Domain.Domain\bin\Debug\Domain.Domain.dll.config
+C:\Users\JoseProg\Documents\Visual Studio 2015\Projects\V.1.0.1\SellerPro\Domain.Domain\bin\Debug\Domain.Domain.dll
+C:\Users\JoseProg\Documents\Visual Studio 2015\Projects\V.1.0.1\SellerPro\Domain.Domain\bin\Debug\Domain.Domain.pdb
+C:\Users\JoseProg\Documents\Visual Studio 2015\Projects\V.1.0.1\SellerPro\Domain.Domain\obj\Debug\Domain.Domain.csprojResolveAssemblyReference.cache
+C:\Users\JoseProg\Documents\Visual Studio 2015\Projects\V.1.0.1\SellerPro\Domain.Domain\obj\Debug\Domain.Domain.dll
+C:\Users\JoseProg\Documents\Visual Studio 2015\Projects\V.1.0.1\SellerPro\Domain.Domain\obj\Debug\Domain.Domain.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Seller Pro V.1.0.1\SellerPro\Domain.Domain\bin\Debug\Domain.Domain.dll.config
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Seller Pro V.1.0.1\SellerPro\Domain.Domain\bin\Debug\Domain.Domain.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Seller Pro V.1.0.1\SellerPro\Domain.Domain\bin\Debug\Domain.Domain.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Seller Pro V.1.0.1\SellerPro\Domain.Domain\obj\Debug\Domain.Domain.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Seller Pro V.1.0.1\SellerPro\Domain.Domain\obj\Debug\Domain.Domain.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Seller Pro V.1.0.1\SellerPro\Domain.Domain\obj\Debug\Domain.Domain.csprojResolveAssemblyReference.cache
+C:\Users\FernandoWonder\Desktop\Seller Pro V.1.0.1\SellerPro\Domain.Domain\bin\Debug\Domain.Domain.dll.config
+C:\Users\FernandoWonder\Desktop\Seller Pro V.1.0.1\SellerPro\Domain.Domain\bin\Debug\Domain.Domain.dll
+C:\Users\FernandoWonder\Desktop\Seller Pro V.1.0.1\SellerPro\Domain.Domain\bin\Debug\Domain.Domain.pdb
+C:\Users\FernandoWonder\Desktop\Seller Pro V.1.0.1\SellerPro\Domain.Domain\obj\Debug\Domain.Domain.csprojResolveAssemblyReference.cache
+C:\Users\FernandoWonder\Desktop\Seller Pro V.1.0.1\SellerPro\Domain.Domain\obj\Debug\Domain.Domain.dll
+C:\Users\FernandoWonder\Desktop\Seller Pro V.1.0.1\SellerPro\Domain.Domain\obj\Debug\Domain.Domain.pdb
+C:\Users\Administrador\Documents\novo\Seller Pro V.1.0.1\SellerPro\Domain.Domain\bin\Debug\Domain.Domain.dll.config
+C:\Users\Administrador\Documents\novo\Seller Pro V.1.0.1\SellerPro\Domain.Domain\bin\Debug\Domain.Domain.dll
+C:\Users\Administrador\Documents\novo\Seller Pro V.1.0.1\SellerPro\Domain.Domain\bin\Debug\Domain.Domain.pdb
+C:\Users\Administrador\Documents\novo\Seller Pro V.1.0.1\SellerPro\Domain.Domain\obj\Debug\Domain.Domain.dll
+C:\Users\Administrador\Documents\novo\Seller Pro V.1.0.1\SellerPro\Domain.Domain\obj\Debug\Domain.Domain.pdb
+C:\Users\Administrador\Documents\novo\Seller Pro V.1.0.1\SellerPro\Domain.Domain\obj\Debug\Domain.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\3D Objects\novo\SellerPro\Domain.Domain\bin\Debug\Domain.Domain.dll.config
+C:\Users\Administrador\3D Objects\novo\SellerPro\Domain.Domain\bin\Debug\Domain.Domain.dll
+C:\Users\Administrador\3D Objects\novo\SellerPro\Domain.Domain\bin\Debug\Domain.Domain.pdb
+C:\Users\Administrador\3D Objects\novo\SellerPro\Domain.Domain\obj\Debug\Domain.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\3D Objects\novo\SellerPro\Domain.Domain\obj\Debug\Domain.Domain.dll
+C:\Users\Administrador\3D Objects\novo\SellerPro\Domain.Domain\obj\Debug\Domain.Domain.pdb
+G:\novo\SellerPro\Domain.Domain\bin\Debug\Domain.Domain.dll.config
+G:\novo\SellerPro\Domain.Domain\bin\Debug\Domain.Domain.dll
+G:\novo\SellerPro\Domain.Domain\bin\Debug\Domain.Domain.pdb
+G:\novo\SellerPro\Domain.Domain\obj\Debug\Domain.Domain.dll
+G:\novo\SellerPro\Domain.Domain\obj\Debug\Domain.Domain.pdb
+C:\Users\programador\Documents\Visual Studio 2015\Projects\SellerPro\Domain.Domain\bin\Debug\Domain.Domain.dll.config
+C:\Users\programador\Documents\Visual Studio 2015\Projects\SellerPro\Domain.Domain\bin\Debug\Domain.Domain.dll
+C:\Users\programador\Documents\Visual Studio 2015\Projects\SellerPro\Domain.Domain\bin\Debug\Domain.Domain.pdb
+C:\Users\programador\Documents\Visual Studio 2015\Projects\SellerPro\Domain.Domain\obj\Debug\Domain.Domain.dll
+C:\Users\programador\Documents\Visual Studio 2015\Projects\SellerPro\Domain.Domain\obj\Debug\Domain.Domain.pdb
+C:\Users\programador\3D Objects\backup\21-04-2018\SellerPro\Domain.Domain\bin\Debug\Domain.Domain.dll.config
+C:\Users\programador\3D Objects\backup\21-04-2018\SellerPro\Domain.Domain\bin\Debug\Domain.Domain.dll
+C:\Users\programador\3D Objects\backup\21-04-2018\SellerPro\Domain.Domain\bin\Debug\Domain.Domain.pdb
+C:\Users\programador\3D Objects\backup\21-04-2018\SellerPro\Domain.Domain\obj\Debug\Domain.Domain.dll
+C:\Users\programador\3D Objects\backup\21-04-2018\SellerPro\Domain.Domain\obj\Debug\Domain.Domain.pdb
+C:\Users\programador\3D Objects\backup\21-04-2018\SellerPro\Domain.Domain\obj\Debug\Domain.Domain.csprojResolveAssemblyReference.cache

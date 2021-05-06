@@ -1,0 +1,60 @@
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Infrastructure.Data\bin\Release\Infrastructure.Data.dll.config
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Infrastructure.Data\bin\Release\Infrastructure.Data.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Infrastructure.Data\bin\Release\Infrastructure.Data.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Infrastructure.Data\bin\Release\Domain.Domain.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Infrastructure.Data\bin\Release\EntityFramework.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Infrastructure.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Infrastructure.Data\bin\Release\Domain.Domain.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Infrastructure.Data\bin\Release\EntityFramework.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Infrastructure.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Infrastructure.Data\obj\Release\Infrastructure.Data.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Infrastructure.Data\obj\Release\Infrastructure.Data.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Infrastructure.Data\obj\Release\Infrastructure.Data.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Seller Pro V.1.0.1\SellerPro\Infrastructure.Data\bin\Release\Infrastructure.Data.dll.config
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Seller Pro V.1.0.1\SellerPro\Infrastructure.Data\bin\Release\Infrastructure.Data.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Seller Pro V.1.0.1\SellerPro\Infrastructure.Data\bin\Release\Infrastructure.Data.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Seller Pro V.1.0.1\SellerPro\Infrastructure.Data\bin\Release\Domain.Domain.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Seller Pro V.1.0.1\SellerPro\Infrastructure.Data\bin\Release\EntityFramework.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Seller Pro V.1.0.1\SellerPro\Infrastructure.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Seller Pro V.1.0.1\SellerPro\Infrastructure.Data\bin\Release\Domain.Domain.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Seller Pro V.1.0.1\SellerPro\Infrastructure.Data\bin\Release\EntityFramework.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Seller Pro V.1.0.1\SellerPro\Infrastructure.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Seller Pro V.1.0.1\SellerPro\Infrastructure.Data\obj\Release\Infrastructure.Data.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Seller Pro V.1.0.1\SellerPro\Infrastructure.Data\obj\Release\Infrastructure.Data.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Seller Pro V.1.0.1\SellerPro\Infrastructure.Data\obj\Release\Infrastructure.Data.pdb
+C:\Users\Administrador\Documents\novo\Seller Pro V.1.0.1\SellerPro\Infrastructure.Data\bin\Release\Infrastructure.Data.dll.config
+C:\Users\Administrador\Documents\novo\Seller Pro V.1.0.1\SellerPro\Infrastructure.Data\bin\Release\Infrastructure.Data.dll
+C:\Users\Administrador\Documents\novo\Seller Pro V.1.0.1\SellerPro\Infrastructure.Data\bin\Release\Infrastructure.Data.pdb
+C:\Users\Administrador\Documents\novo\Seller Pro V.1.0.1\SellerPro\Infrastructure.Data\bin\Release\Domain.Domain.dll
+C:\Users\Administrador\Documents\novo\Seller Pro V.1.0.1\SellerPro\Infrastructure.Data\bin\Release\EntityFramework.dll
+C:\Users\Administrador\Documents\novo\Seller Pro V.1.0.1\SellerPro\Infrastructure.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Administrador\Documents\novo\Seller Pro V.1.0.1\SellerPro\Infrastructure.Data\bin\Release\Domain.Domain.pdb
+C:\Users\Administrador\Documents\novo\Seller Pro V.1.0.1\SellerPro\Infrastructure.Data\bin\Release\EntityFramework.xml
+C:\Users\Administrador\Documents\novo\Seller Pro V.1.0.1\SellerPro\Infrastructure.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Administrador\Documents\novo\Seller Pro V.1.0.1\SellerPro\Infrastructure.Data\obj\Release\Infrastructure.Data.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\novo\Seller Pro V.1.0.1\SellerPro\Infrastructure.Data\obj\Release\Infrastructure.Data.dll
+C:\Users\Administrador\Documents\novo\Seller Pro V.1.0.1\SellerPro\Infrastructure.Data\obj\Release\Infrastructure.Data.pdb
+C:\Users\programador\3D Objects\backup\21-04-2018\SellerPro\Infrastructure.Data\bin\Release\Infrastructure.Data.dll.config
+C:\Users\programador\3D Objects\backup\21-04-2018\SellerPro\Infrastructure.Data\bin\Release\Infrastructure.Data.dll
+C:\Users\programador\3D Objects\backup\21-04-2018\SellerPro\Infrastructure.Data\bin\Release\Infrastructure.Data.pdb
+C:\Users\programador\3D Objects\backup\21-04-2018\SellerPro\Infrastructure.Data\bin\Release\Domain.Domain.dll
+C:\Users\programador\3D Objects\backup\21-04-2018\SellerPro\Infrastructure.Data\bin\Release\EntityFramework.dll
+C:\Users\programador\3D Objects\backup\21-04-2018\SellerPro\Infrastructure.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\programador\3D Objects\backup\21-04-2018\SellerPro\Infrastructure.Data\bin\Release\Domain.Domain.pdb
+C:\Users\programador\3D Objects\backup\21-04-2018\SellerPro\Infrastructure.Data\bin\Release\EntityFramework.xml
+C:\Users\programador\3D Objects\backup\21-04-2018\SellerPro\Infrastructure.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\programador\3D Objects\backup\21-04-2018\SellerPro\Infrastructure.Data\obj\Release\Infrastructure.Data.csprojResolveAssemblyReference.cache
+C:\Users\programador\3D Objects\backup\21-04-2018\SellerPro\Infrastructure.Data\obj\Release\Infrastructure.Data.dll
+C:\Users\programador\3D Objects\backup\21-04-2018\SellerPro\Infrastructure.Data\obj\Release\Infrastructure.Data.pdb
+C:\Users\programador\Documents\Visual Studio 2015\Projects\SellerPro\Infrastructure.Data\bin\Release\Infrastructure.Data.dll.config
+C:\Users\programador\Documents\Visual Studio 2015\Projects\SellerPro\Infrastructure.Data\bin\Release\Infrastructure.Data.dll
+C:\Users\programador\Documents\Visual Studio 2015\Projects\SellerPro\Infrastructure.Data\bin\Release\Infrastructure.Data.pdb
+C:\Users\programador\Documents\Visual Studio 2015\Projects\SellerPro\Infrastructure.Data\bin\Release\Domain.Domain.dll
+C:\Users\programador\Documents\Visual Studio 2015\Projects\SellerPro\Infrastructure.Data\bin\Release\EntityFramework.dll
+C:\Users\programador\Documents\Visual Studio 2015\Projects\SellerPro\Infrastructure.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\programador\Documents\Visual Studio 2015\Projects\SellerPro\Infrastructure.Data\bin\Release\Domain.Domain.pdb
+C:\Users\programador\Documents\Visual Studio 2015\Projects\SellerPro\Infrastructure.Data\bin\Release\EntityFramework.xml
+C:\Users\programador\Documents\Visual Studio 2015\Projects\SellerPro\Infrastructure.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\programador\Documents\Visual Studio 2015\Projects\SellerPro\Infrastructure.Data\obj\Release\Infrastructure.Data.csprojResolveAssemblyReference.cache
+C:\Users\programador\Documents\Visual Studio 2015\Projects\SellerPro\Infrastructure.Data\obj\Release\Infrastructure.Data.dll
+C:\Users\programador\Documents\Visual Studio 2015\Projects\SellerPro\Infrastructure.Data\obj\Release\Infrastructure.Data.pdb

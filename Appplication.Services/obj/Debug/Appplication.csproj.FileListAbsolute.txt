@@ -1,0 +1,117 @@
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Appplication.Services\bin\Debug\Appplication.Services.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Appplication.Services\bin\Debug\Appplication.Services.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Appplication.Services\bin\Debug\Domain.Domain.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Appplication.Services\bin\Debug\Infrastructure.Data.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Appplication.Services\bin\Debug\EntityFramework.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Appplication.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Appplication.Services\bin\Debug\Domain.Domain.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Appplication.Services\bin\Debug\Infrastructure.Data.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Appplication.Services\bin\Debug\EntityFramework.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Appplication.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Appplication.Services\obj\Debug\Appplication.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Appplication.Services\obj\Debug\Appplication.Services.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Appplication.Services\obj\Debug\Appplication.Services.pdb
+C:\Users\JoseProg\Documents\Visual Studio 2015\Projects\V.1.0.1\SellerPro\Appplication.Services\bin\Debug\Appplication.Services.dll
+C:\Users\JoseProg\Documents\Visual Studio 2015\Projects\V.1.0.1\SellerPro\Appplication.Services\bin\Debug\Appplication.Services.pdb
+C:\Users\JoseProg\Documents\Visual Studio 2015\Projects\V.1.0.1\SellerPro\Appplication.Services\bin\Debug\Domain.Domain.dll
+C:\Users\JoseProg\Documents\Visual Studio 2015\Projects\V.1.0.1\SellerPro\Appplication.Services\bin\Debug\Infrastructure.Data.dll
+C:\Users\JoseProg\Documents\Visual Studio 2015\Projects\V.1.0.1\SellerPro\Appplication.Services\bin\Debug\EntityFramework.dll
+C:\Users\JoseProg\Documents\Visual Studio 2015\Projects\V.1.0.1\SellerPro\Appplication.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JoseProg\Documents\Visual Studio 2015\Projects\V.1.0.1\SellerPro\Appplication.Services\bin\Debug\Domain.Domain.pdb
+C:\Users\JoseProg\Documents\Visual Studio 2015\Projects\V.1.0.1\SellerPro\Appplication.Services\bin\Debug\Infrastructure.Data.pdb
+C:\Users\JoseProg\Documents\Visual Studio 2015\Projects\V.1.0.1\SellerPro\Appplication.Services\bin\Debug\EntityFramework.xml
+C:\Users\JoseProg\Documents\Visual Studio 2015\Projects\V.1.0.1\SellerPro\Appplication.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JoseProg\Documents\Visual Studio 2015\Projects\V.1.0.1\SellerPro\Appplication.Services\obj\Debug\Appplication.csprojResolveAssemblyReference.cache
+C:\Users\JoseProg\Documents\Visual Studio 2015\Projects\V.1.0.1\SellerPro\Appplication.Services\obj\Debug\Appplication.Services.dll
+C:\Users\JoseProg\Documents\Visual Studio 2015\Projects\V.1.0.1\SellerPro\Appplication.Services\obj\Debug\Appplication.Services.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Seller Pro V.1.0.1\SellerPro\Appplication.Services\bin\Debug\Appplication.Services.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Seller Pro V.1.0.1\SellerPro\Appplication.Services\bin\Debug\Appplication.Services.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Seller Pro V.1.0.1\SellerPro\Appplication.Services\bin\Debug\Domain.Domain.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Seller Pro V.1.0.1\SellerPro\Appplication.Services\bin\Debug\Infrastructure.Data.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Seller Pro V.1.0.1\SellerPro\Appplication.Services\bin\Debug\EntityFramework.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Seller Pro V.1.0.1\SellerPro\Appplication.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Seller Pro V.1.0.1\SellerPro\Appplication.Services\bin\Debug\Domain.Domain.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Seller Pro V.1.0.1\SellerPro\Appplication.Services\bin\Debug\Infrastructure.Data.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Seller Pro V.1.0.1\SellerPro\Appplication.Services\bin\Debug\EntityFramework.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Seller Pro V.1.0.1\SellerPro\Appplication.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Seller Pro V.1.0.1\SellerPro\Appplication.Services\obj\Debug\Appplication.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Seller Pro V.1.0.1\SellerPro\Appplication.Services\obj\Debug\Appplication.Services.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Seller Pro V.1.0.1\SellerPro\Appplication.Services\obj\Debug\Appplication.Services.pdb
+C:\Users\FernandoWonder\Desktop\Seller Pro V.1.0.1\SellerPro\Appplication.Services\bin\Debug\Appplication.Services.dll
+C:\Users\FernandoWonder\Desktop\Seller Pro V.1.0.1\SellerPro\Appplication.Services\bin\Debug\Appplication.Services.pdb
+C:\Users\FernandoWonder\Desktop\Seller Pro V.1.0.1\SellerPro\Appplication.Services\bin\Debug\Domain.Domain.dll
+C:\Users\FernandoWonder\Desktop\Seller Pro V.1.0.1\SellerPro\Appplication.Services\bin\Debug\Infrastructure.Data.dll
+C:\Users\FernandoWonder\Desktop\Seller Pro V.1.0.1\SellerPro\Appplication.Services\bin\Debug\EntityFramework.dll
+C:\Users\FernandoWonder\Desktop\Seller Pro V.1.0.1\SellerPro\Appplication.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FernandoWonder\Desktop\Seller Pro V.1.0.1\SellerPro\Appplication.Services\bin\Debug\Domain.Domain.pdb
+C:\Users\FernandoWonder\Desktop\Seller Pro V.1.0.1\SellerPro\Appplication.Services\bin\Debug\Infrastructure.Data.pdb
+C:\Users\FernandoWonder\Desktop\Seller Pro V.1.0.1\SellerPro\Appplication.Services\bin\Debug\EntityFramework.xml
+C:\Users\FernandoWonder\Desktop\Seller Pro V.1.0.1\SellerPro\Appplication.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FernandoWonder\Desktop\Seller Pro V.1.0.1\SellerPro\Appplication.Services\obj\Debug\Appplication.csprojResolveAssemblyReference.cache
+C:\Users\FernandoWonder\Desktop\Seller Pro V.1.0.1\SellerPro\Appplication.Services\obj\Debug\Appplication.Services.dll
+C:\Users\FernandoWonder\Desktop\Seller Pro V.1.0.1\SellerPro\Appplication.Services\obj\Debug\Appplication.Services.pdb
+C:\Users\Administrador\Documents\novo\Seller Pro V.1.0.1\SellerPro\Appplication.Services\bin\Debug\Appplication.Services.dll
+C:\Users\Administrador\Documents\novo\Seller Pro V.1.0.1\SellerPro\Appplication.Services\bin\Debug\Appplication.Services.pdb
+C:\Users\Administrador\Documents\novo\Seller Pro V.1.0.1\SellerPro\Appplication.Services\bin\Debug\Domain.Domain.dll
+C:\Users\Administrador\Documents\novo\Seller Pro V.1.0.1\SellerPro\Appplication.Services\bin\Debug\Infrastructure.Data.dll
+C:\Users\Administrador\Documents\novo\Seller Pro V.1.0.1\SellerPro\Appplication.Services\bin\Debug\EntityFramework.dll
+C:\Users\Administrador\Documents\novo\Seller Pro V.1.0.1\SellerPro\Appplication.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrador\Documents\novo\Seller Pro V.1.0.1\SellerPro\Appplication.Services\bin\Debug\Domain.Domain.pdb
+C:\Users\Administrador\Documents\novo\Seller Pro V.1.0.1\SellerPro\Appplication.Services\bin\Debug\Infrastructure.Data.pdb
+C:\Users\Administrador\Documents\novo\Seller Pro V.1.0.1\SellerPro\Appplication.Services\bin\Debug\EntityFramework.xml
+C:\Users\Administrador\Documents\novo\Seller Pro V.1.0.1\SellerPro\Appplication.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrador\Documents\novo\Seller Pro V.1.0.1\SellerPro\Appplication.Services\obj\Debug\Appplication.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\novo\Seller Pro V.1.0.1\SellerPro\Appplication.Services\obj\Debug\Appplication.Services.dll
+C:\Users\Administrador\Documents\novo\Seller Pro V.1.0.1\SellerPro\Appplication.Services\obj\Debug\Appplication.Services.pdb
+C:\Users\Administrador\3D Objects\novo\SellerPro\Appplication.Services\bin\Debug\Appplication.Services.dll
+C:\Users\Administrador\3D Objects\novo\SellerPro\Appplication.Services\bin\Debug\Appplication.Services.pdb
+C:\Users\Administrador\3D Objects\novo\SellerPro\Appplication.Services\bin\Debug\Domain.Domain.dll
+C:\Users\Administrador\3D Objects\novo\SellerPro\Appplication.Services\bin\Debug\Infrastructure.Data.dll
+C:\Users\Administrador\3D Objects\novo\SellerPro\Appplication.Services\bin\Debug\EntityFramework.dll
+C:\Users\Administrador\3D Objects\novo\SellerPro\Appplication.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrador\3D Objects\novo\SellerPro\Appplication.Services\bin\Debug\Domain.Domain.pdb
+C:\Users\Administrador\3D Objects\novo\SellerPro\Appplication.Services\bin\Debug\Infrastructure.Data.pdb
+C:\Users\Administrador\3D Objects\novo\SellerPro\Appplication.Services\bin\Debug\EntityFramework.xml
+C:\Users\Administrador\3D Objects\novo\SellerPro\Appplication.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrador\3D Objects\novo\SellerPro\Appplication.Services\obj\Debug\Appplication.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\3D Objects\novo\SellerPro\Appplication.Services\obj\Debug\Appplication.Services.dll
+C:\Users\Administrador\3D Objects\novo\SellerPro\Appplication.Services\obj\Debug\Appplication.Services.pdb
+G:\novo\SellerPro\Appplication.Services\bin\Debug\Appplication.Services.dll
+G:\novo\SellerPro\Appplication.Services\bin\Debug\Appplication.Services.pdb
+G:\novo\SellerPro\Appplication.Services\bin\Debug\Domain.Domain.dll
+G:\novo\SellerPro\Appplication.Services\bin\Debug\Infrastructure.Data.dll
+G:\novo\SellerPro\Appplication.Services\bin\Debug\EntityFramework.dll
+G:\novo\SellerPro\Appplication.Services\bin\Debug\EntityFramework.SqlServer.dll
+G:\novo\SellerPro\Appplication.Services\bin\Debug\Domain.Domain.pdb
+G:\novo\SellerPro\Appplication.Services\bin\Debug\Infrastructure.Data.pdb
+G:\novo\SellerPro\Appplication.Services\bin\Debug\EntityFramework.xml
+G:\novo\SellerPro\Appplication.Services\bin\Debug\EntityFramework.SqlServer.xml
+G:\novo\SellerPro\Appplication.Services\obj\Debug\Appplication.csprojResolveAssemblyReference.cache
+G:\novo\SellerPro\Appplication.Services\obj\Debug\Appplication.Services.dll
+G:\novo\SellerPro\Appplication.Services\obj\Debug\Appplication.Services.pdb
+C:\Users\programador\Documents\Visual Studio 2015\Projects\SellerPro\Appplication.Services\bin\Debug\Appplication.Services.dll
+C:\Users\programador\Documents\Visual Studio 2015\Projects\SellerPro\Appplication.Services\bin\Debug\Appplication.Services.pdb
+C:\Users\programador\Documents\Visual Studio 2015\Projects\SellerPro\Appplication.Services\bin\Debug\Domain.Domain.dll
+C:\Users\programador\Documents\Visual Studio 2015\Projects\SellerPro\Appplication.Services\bin\Debug\Infrastructure.Data.dll
+C:\Users\programador\Documents\Visual Studio 2015\Projects\SellerPro\Appplication.Services\bin\Debug\EntityFramework.dll
+C:\Users\programador\Documents\Visual Studio 2015\Projects\SellerPro\Appplication.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\programador\Documents\Visual Studio 2015\Projects\SellerPro\Appplication.Services\bin\Debug\Domain.Domain.pdb
+C:\Users\programador\Documents\Visual Studio 2015\Projects\SellerPro\Appplication.Services\bin\Debug\Infrastructure.Data.pdb
+C:\Users\programador\Documents\Visual Studio 2015\Projects\SellerPro\Appplication.Services\bin\Debug\EntityFramework.xml
+C:\Users\programador\Documents\Visual Studio 2015\Projects\SellerPro\Appplication.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\programador\Documents\Visual Studio 2015\Projects\SellerPro\Appplication.Services\obj\Debug\Appplication.csprojResolveAssemblyReference.cache
+C:\Users\programador\Documents\Visual Studio 2015\Projects\SellerPro\Appplication.Services\obj\Debug\Appplication.Services.dll
+C:\Users\programador\Documents\Visual Studio 2015\Projects\SellerPro\Appplication.Services\obj\Debug\Appplication.Services.pdb
+C:\Users\programador\3D Objects\backup\21-04-2018\SellerPro\Appplication.Services\bin\Debug\Appplication.Services.dll
+C:\Users\programador\3D Objects\backup\21-04-2018\SellerPro\Appplication.Services\bin\Debug\Appplication.Services.pdb
+C:\Users\programador\3D Objects\backup\21-04-2018\SellerPro\Appplication.Services\bin\Debug\Domain.Domain.dll
+C:\Users\programador\3D Objects\backup\21-04-2018\SellerPro\Appplication.Services\bin\Debug\Infrastructure.Data.dll
+C:\Users\programador\3D Objects\backup\21-04-2018\SellerPro\Appplication.Services\bin\Debug\EntityFramework.dll
+C:\Users\programador\3D Objects\backup\21-04-2018\SellerPro\Appplication.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\programador\3D Objects\backup\21-04-2018\SellerPro\Appplication.Services\bin\Debug\Domain.Domain.pdb
+C:\Users\programador\3D Objects\backup\21-04-2018\SellerPro\Appplication.Services\bin\Debug\Infrastructure.Data.pdb
+C:\Users\programador\3D Objects\backup\21-04-2018\SellerPro\Appplication.Services\bin\Debug\EntityFramework.xml
+C:\Users\programador\3D Objects\backup\21-04-2018\SellerPro\Appplication.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\programador\3D Objects\backup\21-04-2018\SellerPro\Appplication.Services\obj\Debug\Appplication.csprojResolveAssemblyReference.cache
+C:\Users\programador\3D Objects\backup\21-04-2018\SellerPro\Appplication.Services\obj\Debug\Appplication.Services.dll
+C:\Users\programador\3D Objects\backup\21-04-2018\SellerPro\Appplication.Services\obj\Debug\Appplication.Services.pdb

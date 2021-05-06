@@ -1,0 +1,26 @@
+C:\Users\Administrador\3D Objects\Projectos\C#\Fenitech\Sistema_Venda\SellerPro\Appplication.Services\bin\Debug\Appplication.Services.dll
+C:\Users\Administrador\3D Objects\Projectos\C#\Fenitech\Sistema_Venda\SellerPro\Appplication.Services\bin\Debug\Appplication.Services.pdb
+C:\Users\Administrador\3D Objects\Projectos\C#\Fenitech\Sistema_Venda\SellerPro\Appplication.Services\obj\Debug\Appplication.Services.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\3D Objects\Projectos\C#\Fenitech\Sistema_Venda\SellerPro\Appplication.Services\obj\Debug\Appplication.Services.dll
+C:\Users\Administrador\3D Objects\Projectos\C#\Fenitech\Sistema_Venda\SellerPro\Appplication.Services\obj\Debug\Appplication.Services.pdb
+C:\Users\Administrador\3D Objects\Projectos\C#\Fenitech\Sistema_Venda\SellerPro\Appplication.Services\bin\Debug\Domain.Domain.dll
+C:\Users\Administrador\3D Objects\Projectos\C#\Fenitech\Sistema_Venda\SellerPro\Appplication.Services\bin\Debug\Infrastructure.Data.dll
+C:\Users\Administrador\3D Objects\Projectos\C#\Fenitech\Sistema_Venda\SellerPro\Appplication.Services\bin\Debug\EntityFramework.dll
+C:\Users\Administrador\3D Objects\Projectos\C#\Fenitech\Sistema_Venda\SellerPro\Appplication.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrador\3D Objects\Projectos\C#\Fenitech\Sistema_Venda\SellerPro\Appplication.Services\bin\Debug\Domain.Domain.pdb
+C:\Users\Administrador\3D Objects\Projectos\C#\Fenitech\Sistema_Venda\SellerPro\Appplication.Services\bin\Debug\Infrastructure.Data.pdb
+C:\Users\Administrador\3D Objects\Projectos\C#\Fenitech\Sistema_Venda\SellerPro\Appplication.Services\bin\Debug\EntityFramework.xml
+C:\Users\Administrador\3D Objects\Projectos\C#\Fenitech\Sistema_Venda\SellerPro\Appplication.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Appplication.Services\bin\Debug\Appplication.Services.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Appplication.Services\bin\Debug\Appplication.Services.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Appplication.Services\bin\Debug\Domain.Domain.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Appplication.Services\bin\Debug\Infrastructure.Data.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Appplication.Services\bin\Debug\EntityFramework.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Appplication.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Appplication.Services\bin\Debug\Domain.Domain.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Appplication.Services\bin\Debug\Infrastructure.Data.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Appplication.Services\bin\Debug\EntityFramework.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Appplication.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Appplication.Services\obj\Debug\Appplication.Services.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Appplication.Services\obj\Debug\Appplication.Services.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Appplication.Services\obj\Debug\Appplication.Services.pdb

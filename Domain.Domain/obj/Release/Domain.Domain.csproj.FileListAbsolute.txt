@@ -1,0 +1,35 @@
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Domain.Domain\bin\Release\Domain.Domain.dll.config
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Domain.Domain\bin\Release\Domain.Domain.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Domain.Domain\bin\Release\Domain.Domain.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Domain.Domain\obj\Release\Domain.Domain.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\SellerPro\Domain.Domain\obj\Release\Domain.Domain.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Seller Pro V.1.0.1\SellerPro\Domain.Domain\bin\Release\Domain.Domain.dll.config
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Seller Pro V.1.0.1\SellerPro\Domain.Domain\bin\Release\Domain.Domain.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Seller Pro V.1.0.1\SellerPro\Domain.Domain\bin\Release\Domain.Domain.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Seller Pro V.1.0.1\SellerPro\Domain.Domain\obj\Release\Domain.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Seller Pro V.1.0.1\SellerPro\Domain.Domain\obj\Release\Domain.Domain.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Seller Pro V.1.0.1\SellerPro\Domain.Domain\obj\Release\Domain.Domain.pdb
+C:\Users\Administrador\Documents\novo\Seller Pro V.1.0.1\SellerPro\Domain.Domain\bin\Release\Domain.Domain.dll.config
+C:\Users\Administrador\Documents\novo\Seller Pro V.1.0.1\SellerPro\Domain.Domain\bin\Release\Domain.Domain.dll
+C:\Users\Administrador\Documents\novo\Seller Pro V.1.0.1\SellerPro\Domain.Domain\bin\Release\Domain.Domain.pdb
+C:\Users\Administrador\Documents\novo\Seller Pro V.1.0.1\SellerPro\Domain.Domain\obj\Release\Domain.Domain.dll
+C:\Users\Administrador\Documents\novo\Seller Pro V.1.0.1\SellerPro\Domain.Domain\obj\Release\Domain.Domain.pdb
+C:\Users\Administrador\Documents\novo\Seller Pro V.1.0.1\SellerPro\Domain.Domain\obj\Release\Domain.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\3D Objects\novo\SellerPro\Domain.Domain\bin\Release\Domain.Domain.dll.config
+C:\Users\Administrador\3D Objects\novo\SellerPro\Domain.Domain\bin\Release\Domain.Domain.dll
+C:\Users\Administrador\3D Objects\novo\SellerPro\Domain.Domain\bin\Release\Domain.Domain.pdb
+C:\Users\Administrador\3D Objects\novo\SellerPro\Domain.Domain\obj\Release\Domain.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\3D Objects\novo\SellerPro\Domain.Domain\obj\Release\Domain.Domain.dll
+C:\Users\Administrador\3D Objects\novo\SellerPro\Domain.Domain\obj\Release\Domain.Domain.pdb
+C:\Users\programador\3D Objects\backup\21-04-2018\SellerPro\Domain.Domain\bin\Release\Domain.Domain.dll.config
+C:\Users\programador\3D Objects\backup\21-04-2018\SellerPro\Domain.Domain\bin\Release\Domain.Domain.dll
+C:\Users\programador\3D Objects\backup\21-04-2018\SellerPro\Domain.Domain\bin\Release\Domain.Domain.pdb
+C:\Users\programador\3D Objects\backup\21-04-2018\SellerPro\Domain.Domain\obj\Release\Domain.Domain.csprojResolveAssemblyReference.cache
+C:\Users\programador\3D Objects\backup\21-04-2018\SellerPro\Domain.Domain\obj\Release\Domain.Domain.dll
+C:\Users\programador\3D Objects\backup\21-04-2018\SellerPro\Domain.Domain\obj\Release\Domain.Domain.pdb
+C:\Users\programador\Documents\Visual Studio 2015\Projects\SellerPro\Domain.Domain\bin\Release\Domain.Domain.dll.config
+C:\Users\programador\Documents\Visual Studio 2015\Projects\SellerPro\Domain.Domain\bin\Release\Domain.Domain.dll
+C:\Users\programador\Documents\Visual Studio 2015\Projects\SellerPro\Domain.Domain\bin\Release\Domain.Domain.pdb
+C:\Users\programador\Documents\Visual Studio 2015\Projects\SellerPro\Domain.Domain\obj\Release\Domain.Domain.csprojResolveAssemblyReference.cache
+C:\Users\programador\Documents\Visual Studio 2015\Projects\SellerPro\Domain.Domain\obj\Release\Domain.Domain.dll
+C:\Users\programador\Documents\Visual Studio 2015\Projects\SellerPro\Domain.Domain\obj\Release\Domain.Domain.pdb
