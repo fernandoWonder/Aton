@@ -3728,3 +3728,6 @@ C:\Users\programador\Documents\gitaton\aton\UI.Main\obj\Debug\UI.Main.Views.Spla
 C:\Users\programador\Documents\gitaton\aton\UI.Main\obj\Debug\UI.Main.Views.SplashNew.resources
 C:\Users\programador\Documents\gitaton\aton\UI.Main\obj\Debug\UI.Main.csproj.GenerateResource.Cache
 C:\Users\programador\Documents\gitaton\aton\UI.Main\obj\Debug\UI.Main.exe.licenses
+C:\Users\Programmer\Documents\Visual Studio 2015\Projects\Aton\UI.Main\bin\Debug\UI.Main.exe.config
+C:\Users\Programmer\Documents\Visual Studio 2015\Projects\Aton\UI.Main\obj\Debug\UI.Main.exe
+C:\Users\Programmer\Documents\Visual Studio 2015\Projects\Aton\UI.Main\obj\Debug\UI.Main.pdb
