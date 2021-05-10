@@ -27,7 +27,7 @@ namespace Aton.Views
             prods = _productRetreat.view1(textEdit1.Text, armazem);
             gdvControlInvoices.DataSource = prods;
             comboBoxEdit1.Properties.Items.Add("GERAL");
-            foreach (var item in store.List())
+            foreach (var item in store.ListAllAsNoTracking())
             {
                 comboBoxEdit1.Properties.Items.Add(item.Armazem);
             }

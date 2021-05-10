@@ -128,3 +128,16 @@ C:\Users\Programmer\Documents\Visual Studio 2015\Projects\Aton\Appplication.Serv
 C:\Users\Programmer\Documents\Visual Studio 2015\Projects\Aton\Appplication.Services\obj\Debug\Appplication.csprojResolveAssemblyReference.cache
 C:\Users\Programmer\Documents\Visual Studio 2015\Projects\Aton\Appplication.Services\obj\Debug\Appplication.Services.dll
 C:\Users\Programmer\Documents\Visual Studio 2015\Projects\Aton\Appplication.Services\obj\Debug\Appplication.Services.pdb
+C:\Users\programador\Documents\Visual Studio 2015\Projects\Aton\Appplication.Services\bin\Debug\Appplication.Services.dll
+C:\Users\programador\Documents\Visual Studio 2015\Projects\Aton\Appplication.Services\bin\Debug\Appplication.Services.pdb
+C:\Users\programador\Documents\Visual Studio 2015\Projects\Aton\Appplication.Services\bin\Debug\Domain.Domain.dll
+C:\Users\programador\Documents\Visual Studio 2015\Projects\Aton\Appplication.Services\bin\Debug\Infrastructure.Data.dll
+C:\Users\programador\Documents\Visual Studio 2015\Projects\Aton\Appplication.Services\bin\Debug\EntityFramework.dll
+C:\Users\programador\Documents\Visual Studio 2015\Projects\Aton\Appplication.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\programador\Documents\Visual Studio 2015\Projects\Aton\Appplication.Services\bin\Debug\Domain.Domain.pdb
+C:\Users\programador\Documents\Visual Studio 2015\Projects\Aton\Appplication.Services\bin\Debug\Infrastructure.Data.pdb
+C:\Users\programador\Documents\Visual Studio 2015\Projects\Aton\Appplication.Services\bin\Debug\EntityFramework.xml
+C:\Users\programador\Documents\Visual Studio 2015\Projects\Aton\Appplication.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\programador\Documents\Visual Studio 2015\Projects\Aton\Appplication.Services\obj\Debug\Appplication.csprojResolveAssemblyReference.cache
+C:\Users\programador\Documents\Visual Studio 2015\Projects\Aton\Appplication.Services\obj\Debug\Appplication.Services.dll
+C:\Users\programador\Documents\Visual Studio 2015\Projects\Aton\Appplication.Services\obj\Debug\Appplication.Services.pdb

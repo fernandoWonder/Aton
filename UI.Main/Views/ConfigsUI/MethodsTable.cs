@@ -70,4 +70,14 @@ namespace Aton.Views
 
 
     }
+
+
+    // =========== Enumerador para Construtores =============================
+
+    public enum ConstructStockControl
+    {
+        productEntry, productOut, transference
+    }
+
+
 }

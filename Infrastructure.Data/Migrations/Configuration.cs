@@ -33,11 +33,12 @@ namespace Infrastructure.Data.Migrations
                 DataSystemInitializer.getCompanyInit().ForEach(c => context.Company.AddOrUpdate(c));
 
                 DataSystemInitializer.getFamiles().ForEach(family => context.Family.AddOrUpdate(family)); // Cadastra as familias
-
+                
                 DataSystemInitializer.getTiposTaxas().ForEach(tipoTaxa => context.TaxType.AddOrUpdate(tipoTaxa)); // Cadastra os Tipos de taxa
                 DataSystemInitializer.getCodigosTaxa().ForEach(codTaxa => context.TaxCode.AddOrUpdate(codTaxa)); // Cadastra os códigos de taxa
                 DataSystemInitializer.getMotivoIsencao().ForEach(motivoISE => context.TaxReasonExemption.AddOrUpdate(motivoISE)); // Cadastra os motivo Isenção
                 DataSystemInitializer.getInvoiceType().ForEach(iType => context.InvoiceType.AddOrUpdate(iType)); // Cadastra os tipos de fatura
+                context.Series.AddOrUpdate(DataSystemInitializer.getSerieA());
                 DataSystemInitializer.getRazoesNota().ForEach(c => context.NoteReason.AddOrUpdate(c));              // Cadastra as razões da nota de credito ou debito
                 DataSystemInitializer.getTipoDeOprecaoNota().ForEach(c => context.NoteOperatioType.AddOrUpdate(c));  // Cadastra as operações da nota de credito ou debito
                 DataSystemInitializer.getInvoiceStatus().ForEach(iStatus => context.InvoiceStatus.AddOrUpdate(iStatus)); // Cadastra status de fatura

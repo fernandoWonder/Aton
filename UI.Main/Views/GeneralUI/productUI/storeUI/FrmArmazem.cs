@@ -30,7 +30,7 @@ namespace Aton.Views
         }
         public void fillData()
         {
-            gdvControlCategory.DataSource = _storeController.List() ;
+            gdvControlCategory.DataSource = _storeController.ListAllAsNoTracking() ;
             gdvCategory.Columns["FlagState"].Visible = false;
             gdvCategory.RefreshData();
         }
@@ -44,7 +44,7 @@ namespace Aton.Views
         {
             if (position>=0)
             {
-                idArmazem = _storeController.List()[position].Id;
+                idArmazem = _storeController.ListAllAsNoTracking()[position].Id;
                 FrmStoreSave arm = new FrmStoreSave(this, idArmazem);
             }
             else
@@ -58,7 +58,7 @@ namespace Aton.Views
         {
             if (position >=0)
             {
-                _storeController.delete(_storeController.List()[position]);
+                _storeController.delete(_storeController.ListAllAsNoTracking()[position]);
             }
             else
             {
@@ -123,7 +123,7 @@ namespace Aton.Views
         {
             if (position >= 0)
             {
-                idArmazem = _storeController.List()[position].Id;
+                idArmazem = _storeController.ListAllAsNoTracking()[position].Id;
                 FrmStoreSave arm = new FrmStoreSave(this, idArmazem);
                 arm.ShowDialog();
             }
@@ -140,7 +140,7 @@ namespace Aton.Views
             {
                 if (position >= 0)
                 {
-                    _storeController.deleteForId(_storeController.List()[position].Id);
+                    _storeController.deleteForId(_storeController.ListAllAsNoTracking()[position].Id);
                     fillData();
                 }
                 else
@@ -154,7 +154,7 @@ namespace Aton.Views
                 {
                     if (position >= 0)
                     {
-                        _storeController.deleteForId(_storeController.List()[position].Id);
+                        _storeController.deleteForId(_storeController.ListAllAsNoTracking()[position].Id);
                         fillData();
                     }
                     else

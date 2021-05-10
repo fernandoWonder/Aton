@@ -785,6 +785,16 @@ namespace Infrastructure.Data.Initializer
             };
         }
 
+        public static Series getSerieA()
+        {
+            return new Series()
+            {
+                Serie = DateTime.Now.Date.Year.ToString(),
+                AnoInicio = DateTime.Now,
+                AnoTermino = DateTime.Now.AddYears(1),
+            };
+        }
+
         public static List<ConfigCurrentAccount> getConfigCurrentAccount()
         {
             return new List<ConfigCurrentAccount>() {

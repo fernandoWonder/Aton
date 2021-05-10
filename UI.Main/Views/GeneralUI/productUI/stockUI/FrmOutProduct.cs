@@ -21,7 +21,7 @@ namespace Aton.Views
 
         public void initialize()
         {
-            _storageComtroller.List().ForEach(c => cmbArmazem.Properties.Items.Add(c.Armazem));
+            _storageComtroller.ListAllAsNoTracking().ForEach(c => cmbArmazem.Properties.Items.Add(c.Armazem));
             if (cmbArmazem.Properties.Items.Count > 0)
                 cmbArmazem.SelectedIndex = 0;
         }
@@ -29,7 +29,7 @@ namespace Aton.Views
         private void cmbArmazem_SelectedIndexChanged(object sender, EventArgs e)
         {
             idArmazem = (cmbArmazem.SelectedIndex != -1) 
-                ? _storageComtroller.List()[cmbArmazem.SelectedIndex].Id : 0;
+                ? _storageComtroller.ListAllAsNoTracking()[cmbArmazem.SelectedIndex].Id : 0;
             searchLUpProduct.Properties.DataSource = _stockController.viewProductStockArmazemForEntryAndRetreat(idArmazem);
         }
 

@@ -85,7 +85,9 @@ namespace Infrastructure.Data.Context
         public DbSet<ProductsSelectedSell> ProductsSelectedSell { get; set; }
         //
         bool ambienteProducao = false; // Mudar Para True Quando Tudo Terminarou Quando For Para Produção
-        public ContextDB() : base(CompanyConnection.ConectionDefault)/*base(CompanyConnection.ConectionCompany)/**/
+        static string connectionString = "Data Source=Server;Initial Catalog=DBSellerPro;Persist Security Info=True;User ID=sa;Password=sa";
+
+        public ContextDB() : base(CompanyConnection.ConnectionDefault)
         {
             if(ambienteProducao)
                 Database.SetInitializer<ContextDB>(new ContextDBInitializerProduction());

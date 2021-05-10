@@ -34,9 +34,14 @@ namespace Appplication.Controller
         {
             return _storageRepository.listForID(id);
         }
-        public List<Storage> List()
+        public List<Storage> ListAllAsNoTracking()
         {
             return _storageRepository.ListAllAsNoTracking();
+        }
+
+        public List<Storage> ListAllg()
+        {
+            return _storageRepository.ListAll();
         }
 
         public object view1(string search)

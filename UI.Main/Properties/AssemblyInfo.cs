@@ -12,7 +12,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyCompany("Fenitech-Solutions")]
 [assembly: AssemblyProduct("Aton")]
 [assembly: AssemblyCopyright("Copyright © 2020")]
-[assembly: AssemblyTrademark("Dolly Software")]
+[assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible 

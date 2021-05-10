@@ -1,3 +1,5 @@
 {
-  "SERVER":"DESKTOP-EDUARDO"
+  "SERVER": "SERVER",
+"user": "sa",
+"password": "sa"
 }

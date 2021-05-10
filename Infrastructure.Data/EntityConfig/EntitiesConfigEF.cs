@@ -21,7 +21,7 @@ namespace Infrastructure.Data.Config
     {
         public TaxCodeMap()
         {
-            this.HasKey(c => c.Id) ;
+            this.HasKey(c => c.Id);
         }
     }
 
