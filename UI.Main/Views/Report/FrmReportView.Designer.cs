@@ -1,4 +1,4 @@
-﻿namespace UI.Main.Views.Report
+﻿namespace Aton.Views.Report
 {
     partial class FrmReportView
     {

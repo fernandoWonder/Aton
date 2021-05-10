@@ -4,9 +4,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using UI.Main.Views.PDV;
+using Aton.Views.PDV;
 
-namespace UI.Main
+namespace Aton
 {
     static class Program
     {

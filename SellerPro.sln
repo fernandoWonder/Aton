@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain.Domain", "Domain.Dom
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure.Data", "Infrastructure.Data\Infrastructure.Data.csproj", "{DD734573-AC32-4A57-93C5-5222865D391A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI.Main", "UI.Main\UI.Main.csproj", "{4759C784-A826-4AAE-98A2-9AEBE2D9BD81}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aton", "UI.Main\Aton.csproj", "{4759C784-A826-4AAE-98A2-9AEBE2D9BD81}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Appplication", "Appplication.Services\Appplication.csproj", "{0DA94C03-B897-4485-802A-A2699D041179}"
 EndProject

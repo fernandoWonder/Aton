@@ -9,9 +9,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using UI.Main.Views.PDV;
+using Aton.Views.PDV;
 
-namespace UI.Main.Views.Report
+namespace Aton.Views.Report
 {
     public partial class FrmPosPrinter : Form
     {

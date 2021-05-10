@@ -8,7 +8,7 @@ using Appplication.Statics;
 using System.IO;
 using System.Windows.Forms;
 
-namespace UI.Main.Views.Report.ReportsViews
+namespace Aton.Views.Report.ReportsViews
 {
     public partial class Cabecalho : DevExpress.XtraReports.UI.XtraReport
     {

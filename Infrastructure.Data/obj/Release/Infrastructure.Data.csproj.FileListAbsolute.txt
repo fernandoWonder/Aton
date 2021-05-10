@@ -58,3 +58,15 @@ C:\Users\programador\Documents\Visual Studio 2015\Projects\SellerPro\Infrastruct
 C:\Users\programador\Documents\Visual Studio 2015\Projects\SellerPro\Infrastructure.Data\obj\Release\Infrastructure.Data.csprojResolveAssemblyReference.cache
 C:\Users\programador\Documents\Visual Studio 2015\Projects\SellerPro\Infrastructure.Data\obj\Release\Infrastructure.Data.dll
 C:\Users\programador\Documents\Visual Studio 2015\Projects\SellerPro\Infrastructure.Data\obj\Release\Infrastructure.Data.pdb
+C:\Users\Programmer\Documents\Visual Studio 2015\Projects\Aton\Infrastructure.Data\bin\Release\Infrastructure.Data.dll.config
+C:\Users\Programmer\Documents\Visual Studio 2015\Projects\Aton\Infrastructure.Data\bin\Release\Infrastructure.Data.dll
+C:\Users\Programmer\Documents\Visual Studio 2015\Projects\Aton\Infrastructure.Data\bin\Release\Infrastructure.Data.pdb
+C:\Users\Programmer\Documents\Visual Studio 2015\Projects\Aton\Infrastructure.Data\bin\Release\Domain.Domain.dll
+C:\Users\Programmer\Documents\Visual Studio 2015\Projects\Aton\Infrastructure.Data\bin\Release\EntityFramework.dll
+C:\Users\Programmer\Documents\Visual Studio 2015\Projects\Aton\Infrastructure.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Programmer\Documents\Visual Studio 2015\Projects\Aton\Infrastructure.Data\bin\Release\Domain.Domain.pdb
+C:\Users\Programmer\Documents\Visual Studio 2015\Projects\Aton\Infrastructure.Data\bin\Release\EntityFramework.xml
+C:\Users\Programmer\Documents\Visual Studio 2015\Projects\Aton\Infrastructure.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Programmer\Documents\Visual Studio 2015\Projects\Aton\Infrastructure.Data\obj\Release\Infrastructure.Data.csprojResolveAssemblyReference.cache
+C:\Users\Programmer\Documents\Visual Studio 2015\Projects\Aton\Infrastructure.Data\obj\Release\Infrastructure.Data.dll
+C:\Users\Programmer\Documents\Visual Studio 2015\Projects\Aton\Infrastructure.Data\obj\Release\Infrastructure.Data.pdb

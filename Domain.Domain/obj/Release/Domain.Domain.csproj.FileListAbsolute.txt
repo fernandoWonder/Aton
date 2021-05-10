@@ -33,3 +33,9 @@ C:\Users\programador\Documents\Visual Studio 2015\Projects\SellerPro\Domain.Doma
 C:\Users\programador\Documents\Visual Studio 2015\Projects\SellerPro\Domain.Domain\obj\Release\Domain.Domain.csprojResolveAssemblyReference.cache
 C:\Users\programador\Documents\Visual Studio 2015\Projects\SellerPro\Domain.Domain\obj\Release\Domain.Domain.dll
 C:\Users\programador\Documents\Visual Studio 2015\Projects\SellerPro\Domain.Domain\obj\Release\Domain.Domain.pdb
+C:\Users\Programmer\Documents\Visual Studio 2015\Projects\Aton\Domain.Domain\bin\Release\Domain.Domain.dll.config
+C:\Users\Programmer\Documents\Visual Studio 2015\Projects\Aton\Domain.Domain\bin\Release\Domain.Domain.dll
+C:\Users\Programmer\Documents\Visual Studio 2015\Projects\Aton\Domain.Domain\bin\Release\Domain.Domain.pdb
+C:\Users\Programmer\Documents\Visual Studio 2015\Projects\Aton\Domain.Domain\obj\Release\Domain.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Programmer\Documents\Visual Studio 2015\Projects\Aton\Domain.Domain\obj\Release\Domain.Domain.dll
+C:\Users\Programmer\Documents\Visual Studio 2015\Projects\Aton\Domain.Domain\obj\Release\Domain.Domain.pdb

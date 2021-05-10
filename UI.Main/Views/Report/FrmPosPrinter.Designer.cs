@@ -1,4 +1,4 @@
-﻿namespace UI.Main.Views.Report
+﻿namespace Aton.Views.Report
 {
     partial class FrmPosPrinter
     {
@@ -139,7 +139,7 @@
             this.bunifuImageButton2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.bunifuImageButton2.BackColor = System.Drawing.Color.Transparent;
             this.bunifuImageButton2.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.bunifuImageButton2.Image = global::UI.Main.Properties.Resources.Delete_64px;
+            this.bunifuImageButton2.Image = global::Aton.Properties.Resources.Delete_64px;
             this.bunifuImageButton2.ImageActive = null;
             this.bunifuImageButton2.Location = new System.Drawing.Point(410, 0);
             this.bunifuImageButton2.Name = "bunifuImageButton2";
@@ -166,7 +166,7 @@
             // 
             this.bunifuImageButton1.BackColor = System.Drawing.Color.Transparent;
             this.bunifuImageButton1.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.bunifuImageButton1.Image = global::UI.Main.Properties.Resources.Delete_64px;
+            this.bunifuImageButton1.Image = global::Aton.Properties.Resources.Delete_64px;
             this.bunifuImageButton1.ImageActive = null;
             this.bunifuImageButton1.Location = new System.Drawing.Point(456, 0);
             this.bunifuImageButton1.Name = "bunifuImageButton1";

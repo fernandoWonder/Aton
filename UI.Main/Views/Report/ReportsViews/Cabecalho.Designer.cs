@@ -1,4 +1,4 @@
-﻿namespace UI.Main.Views.Report.ReportsViews
+﻿namespace Aton.Views.Report.ReportsViews
 {
     partial class Cabecalho
     {
@@ -64,7 +64,7 @@
             // 
             // xrPictureBox2
             // 
-            this.xrPictureBox2.ImageSource = new DevExpress.XtraPrinting.Drawing.ImageSource(global::UI.Main.Properties.Resources.team, true);
+            this.xrPictureBox2.ImageSource = new DevExpress.XtraPrinting.Drawing.ImageSource(global::Aton.Properties.Resources.team, true);
             this.xrPictureBox2.LocationFloat = new DevExpress.Utils.PointFloat(10.00001F, 0F);
             this.xrPictureBox2.Name = "xrPictureBox2";
             this.xrPictureBox2.SizeF = new System.Drawing.SizeF(106.9583F, 115.8334F);

@@ -11,15 +11,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using UI.Main.Views.Operacoes;
-using UI.Main.Views.Report.ReportsViews;
+using Aton.Views.Comercial.Documents;
+using Aton.Views.Report.ReportsViews;
 using System.Drawing.Printing;
 using DevExpress.XtraPrinting;
 using DevExpress.XtraReports.UI;
 using System.Threading;
 using Appplication.Statics;
 
-namespace UI.Main.Views.Report
+namespace Aton.Views.Report
 {
     public partial class FrmReportView : Form
     {

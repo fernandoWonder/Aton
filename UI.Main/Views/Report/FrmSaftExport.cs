@@ -10,7 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace UI.Main.Views.Report
+namespace Aton.Views.Report
 {
     public partial class FrmSaftExport : DevExpress.XtraEditors.XtraForm
     {
