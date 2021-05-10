@@ -61,3 +61,9 @@ C:\Users\Programmer\Documents\Visual Studio 2015\Projects\Aton\Domain.Domain\bin
 C:\Users\Programmer\Documents\Visual Studio 2015\Projects\Aton\Domain.Domain\bin\Debug\Domain.Domain.pdb
 C:\Users\Programmer\Documents\Visual Studio 2015\Projects\Aton\Domain.Domain\obj\Debug\Domain.Domain.dll
 C:\Users\Programmer\Documents\Visual Studio 2015\Projects\Aton\Domain.Domain\obj\Debug\Domain.Domain.pdb
+C:\Users\programador\Documents\Visual Studio 2015\Projects\Aton\Domain.Domain\bin\Debug\Domain.Domain.dll.config
+C:\Users\programador\Documents\Visual Studio 2015\Projects\Aton\Domain.Domain\bin\Debug\Domain.Domain.dll
+C:\Users\programador\Documents\Visual Studio 2015\Projects\Aton\Domain.Domain\bin\Debug\Domain.Domain.pdb
+C:\Users\programador\Documents\Visual Studio 2015\Projects\Aton\Domain.Domain\obj\Debug\Domain.Domain.csprojResolveAssemblyReference.cache
+C:\Users\programador\Documents\Visual Studio 2015\Projects\Aton\Domain.Domain\obj\Debug\Domain.Domain.dll
+C:\Users\programador\Documents\Visual Studio 2015\Projects\Aton\Domain.Domain\obj\Debug\Domain.Domain.pdb

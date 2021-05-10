@@ -62,7 +62,7 @@ namespace Appplication.Controller
         }
         public object viewProductStockArmazemProduct(int idArmazem,string search)
         {
-            return _stockRepository.viewProductStockArmazemProduct(idArmazem, search ,_currentCompany.CompanyTypeId);
+            return _stockRepository.viewProductStockArmazemProduct(idArmazem, search, 1);
         }
         public object viewProductStockArmazemForEntryAndRetreat(int idArmazem)
         {
@@ -75,7 +75,7 @@ namespace Appplication.Controller
 
         public Stock getStockArmazemProduct(int idProduct, int idArmazem)
         {
-            return _stockRepository.getStockArmazemProduct(idProduct ,idArmazem, _currentCompany.CompanyTypeId);
+            return _stockRepository.getStockArmazemProduct(idProduct, idArmazem, _currentCompany.CompanyTypeId);
         }
 
     }
