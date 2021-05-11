@@ -75,6 +75,8 @@
     <Compile Include="Repositories\CompanyRepository.cs" />
     <Compile Include="Repositories\Country.cs" />
     <Compile Include="Repositories\CustomerRepository.cs" />
+    <Compile Include="Repositories\Documents\StockTransitionRepository.cs" />
+    <Compile Include="Repositories\Documents\StockTransitionTypeRepository.cs" />
     <Compile Include="Repositories\EmployeeRepository.cs" />
     <Compile Include="Repositories\FamilyRepository.cs" />
     <Compile Include="Repositories\FamilyRestRepository.cs" />

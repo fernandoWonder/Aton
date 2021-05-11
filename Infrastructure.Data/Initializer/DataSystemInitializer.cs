@@ -519,7 +519,7 @@ namespace Infrastructure.Data.Initializer
                     Id = "FTC",
                     Tipo = "FTF",
                     Descricao = "C/Factura",
-                    SalesInvoices = true,
+                    SalesInvoices = false,
                     Purchase = true,
                     Seller = false,
                 },
@@ -528,7 +528,7 @@ namespace Infrastructure.Data.Initializer
                     Id = "FRF",
                     Tipo = "FRF",
                     Descricao = "C/Factura-Recibo",
-                    SalesInvoices = true,
+                    SalesInvoices = false,
                     Purchase = true,
                     Seller = false,
                 },
@@ -537,7 +537,7 @@ namespace Infrastructure.Data.Initializer
                     Id = "FPF",
                     Tipo = "FPF",
                     Descricao = "C/Factura Proforma",
-                    SalesInvoices = true,
+                    SalesInvoices = false,
                     Purchase = true,
                     Seller = false,
                 },
@@ -556,10 +556,63 @@ namespace Infrastructure.Data.Initializer
                     Id = "NCF",
                     Tipo = "NCF",
                     Descricao = "C/Nota de Crédito",
-                    SalesInvoices = true,
+                    SalesInvoices = false,
                     Purchase = true,
                     Seller = false,
                 },
+
+                new InvoiceType()
+                {
+                    Id = "EST",
+                    Tipo = "EST",
+                    Descricao = "Entrada de Stock",
+                    SalesInvoices = false,
+                    Purchase = false,
+                    Seller = false,
+                    Stock = true,
+                },
+                new InvoiceType()
+                {
+                    Id = "SST",
+                    Tipo = "SST",
+                    Descricao = "Saida de Stock",
+                    SalesInvoices = false,
+                    Purchase = false,
+                    Seller = false,
+                    Stock = true,
+                },
+                new InvoiceType()
+                {
+                    Id = "TST",
+                    Tipo = "TST",
+                    Descricao = "Transferência de Stock",
+                    SalesInvoices = false,
+                    Purchase = false,
+                    Seller = false,
+                    Stock = true,
+                },
+            };
+        }
+
+        public static List<StockTransitionType> getStockTransitionType()
+        {
+            return new List<StockTransitionType>
+            {
+                new StockTransitionType()
+                {
+                    Id = "E",
+                    InvoiceTypeId = "EST",
+                },
+                new StockTransitionType()
+                {
+                    Id = "O",
+                    InvoiceTypeId = "SST",
+                },
+                new StockTransitionType()
+                {
+                    Id = "T",
+                    InvoiceTypeId = "TST",
+                }
             };
         }
 

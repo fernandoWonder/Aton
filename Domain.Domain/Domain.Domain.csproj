@@ -46,9 +46,11 @@
     <Compile Include="Entities\Documents\PaymentMechanism.cs" />
     <Compile Include="Entities\Documents\ProductRetreat.cs" />
     <Compile Include="Entities\Documents\ProductSales.cs" />
+    <Compile Include="Entities\Documents\StockTransition.cs" />
     <Compile Include="Entities\Documents\Recibo.cs" />
     <Compile Include="Entities\Documents\Series.cs" />
     <Compile Include="Entities\Documents\SourceBilling.cs" />
+    <Compile Include="Entities\Documents\StockTransitionType.cs" />
     <Compile Include="Entities\Family.cs" />
     <Compile Include="Entities\FamilyRest.cs" />
     <Compile Include="Entities\Financial\Bank.cs" />
@@ -90,6 +92,8 @@
     <Compile Include="Interfaces\Repositories\Documents\IPaymentsRecibos.cs" />
     <Compile Include="Interfaces\Repositories\Documents\IProductReatretRepository.cs" />
     <Compile Include="Interfaces\Repositories\Documents\IRecibo.cs" />
+    <Compile Include="Interfaces\Repositories\Documents\IStockTransition.cs" />
+    <Compile Include="Interfaces\Repositories\Documents\IStockTransitionType.cs" />
     <Compile Include="Interfaces\Repositories\Financial\IBankRepository.cs" />
     <Compile Include="Interfaces\Repositories\Financial\ICurrentAccountSystemRepository.cs" />
     <Compile Include="Interfaces\Repositories\IFamily.cs" />

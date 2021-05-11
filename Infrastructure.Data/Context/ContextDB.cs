@@ -56,6 +56,8 @@ namespace Infrastructure.Data.Context
         public DbSet<Series> Series { get; set; }
         public DbSet<InvoiceNoteReason> NoteReason { get; set; }
         public DbSet<InvoiceNoteOperationType> NoteOperatioType { get; set; }
+        public DbSet<StockTransitionType> StockTransitionType { get; set; }
+        public DbSet<StockTransition> StockTransition { get; set; }
         //
         //Financial
         public DbSet<Bank> Bank { get; set; }

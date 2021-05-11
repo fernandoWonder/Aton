@@ -20,9 +20,9 @@ namespace Aton
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             // Application.Run(new Views.SplashNew());
-            Application.Run(new Views.General.product.StockUI.FrmProductTransition(ConstructStockControl.productEntry));
+           // Application.Run(new Views.General.product.StockUI.FrmProductTransition(ConstructStockControl.productEntry));
 
-            //Application.Run(new PDV());
+            Application.Run(new Loading());
             //Application.Run(new Views.Report.FornsViewGrid.FrmInvoicesViewGrid());
             //Application.Run(new Views.Save.FrmFornecedorSave());
             //Application.Run(new Views.Save.FrmProducts());

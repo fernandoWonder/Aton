@@ -48,6 +48,7 @@ namespace Infrastructure.Data.Migrations
                 DataSystemInitializer.getCity().ForEach(city => context.City.AddOrUpdate(city));
                 context.Category.AddOrUpdate(DataSystemInitializer.getCagory());
                 context.Customer.AddOrUpdate(DataSystemInitializer.getFinalCustimer());
+                DataSystemInitializer.getStockTransitionType().ForEach(transitionType => context.StockTransitionType.AddOrUpdate(transitionType));
 
             }
                 
