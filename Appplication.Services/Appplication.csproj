@@ -44,7 +44,7 @@
     <Compile Include="Controller\CurrentAccountMovmentsController.cs" />
     <Compile Include="Controller\CurrentAccountSystemController.cs" />
     <Compile Include="Controller\CustomerController.cs" />
-    <Compile Include="Controller\Documents\StockTransitonController.cs" />
+    <Compile Include="Controller\Documents\StockTransitionController.cs" />
     <Compile Include="Controller\Documents\StockTransitonTypeController.cs" />
     <Compile Include="Controller\FamilyController.cs" />
     <Compile Include="Controller\FamilyRestController.cs" />

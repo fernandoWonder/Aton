@@ -11,7 +11,7 @@ namespace Domain.Domain.Entities.Documents
 
         public int Id { get; set; }
         public string StockTransitionTypeId { get; set; } // Entry, Out, Transition
-        public int InvoiceId { get; set; }
+        public int DocumentId { get; set; }
 
         public int ProdutoId { get; set; }
         public decimal Quantidade { get; set; }
@@ -39,7 +39,7 @@ namespace Domain.Domain.Entities.Documents
         public DateTime DataExpiracao { get; set; }
         */
         public virtual Product Produto { get; set; }
-        public virtual Invoice Invoice { get; set; }
+        public virtual Invoice Document { get; set; }
         public virtual StockTransitionType StockTransitionType { get; set; }
         public DateTime DataCadastro { get; set; }
 

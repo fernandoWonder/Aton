@@ -10,7 +10,7 @@ namespace Domain.Domain.Entities.Documents
         public string InvoiceNo { get; set; }
         public int SeriesId { get; set; }
         public string TipoDocumentoId { get; set; }
-        public int ClienteId { get; set; }
+        public int? ClienteId { get; set; }
         public int? FornecedorId { get; set; }
         public int UserId { get; set; }
         public string FormaPagamentoId { get; set; }

@@ -22,6 +22,11 @@ namespace Appplication.Controller.Documents
             return getOne(type).Transacoes.ToList();
         }
 
+        public StockTransitionType getOneForInvoiceType(string invoiceTypeId)
+        {
+            return _transitionTypeRepo.ListAllAsNoTracking().Where(t => t.InvoiceTypeId == invoiceTypeId).FirstOrDefault();
+        }
+
         public List<StockTransition> getStockTransitionForTypeDateRange(string type, DateTime dt1, DateTime dt2)
         {
             return getOne(type).Transacoes.Where(t => t.DataCadastro >= dt1 && t.DataCadastro <= dt2).ToList();

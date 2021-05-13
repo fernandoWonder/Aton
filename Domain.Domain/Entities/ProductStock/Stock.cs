@@ -19,8 +19,5 @@ namespace Domain.Domain.Entities.ProductStock
         public virtual Product Produto { get; set; }
         public virtual Storage Armazem { get; set; }
         public DateTime DataCadastro { get; set; }
-
-
-
     }
 }
