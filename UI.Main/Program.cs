@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using Aton.Views.PDV;
 using Aton.Views;
-using Aton.Views.Comercial.Documents;
 
 namespace Aton
 {
@@ -20,7 +19,7 @@ namespace Aton
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmInvoiceCompra());
+            Application.Run(new Loading());
   
         }
     }

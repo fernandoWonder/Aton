@@ -44,6 +44,7 @@
     <Compile Include="Entities\Documents\ProductEntry.cs" />
     <Compile Include="Entities\Documents\Invoice.cs" />
     <Compile Include="Entities\Documents\PaymentMechanism.cs" />
+    <Compile Include="Entities\Documents\ProductPurches.cs" />
     <Compile Include="Entities\Documents\ProductRetreat.cs" />
     <Compile Include="Entities\Documents\ProductSales.cs" />
     <Compile Include="Entities\Documents\StockTransition.cs" />
