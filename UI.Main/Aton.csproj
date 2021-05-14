@@ -1,0 +1,1064 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4759C784-A826-4AAE-98A2-9AEBE2D9BD81}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Aton</RootNamespace>
+    <AssemblyName>Aton</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>AtonIco.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>..\packages\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.BonusSkins.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Charts.v19.1.Core, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.CodeParser.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.DataAccess.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.DataAccess.v19.1.UI, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.ExpressApp.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Images.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Mvvm.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Office.v19.1.Core, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Pdf.v19.1.Core, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Persistent.Base.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v19.1.Core, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v19.1.Core, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.RichEdit.v19.1.Core, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.RichEdit.v19.1.Export, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Snap.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Snap.v19.1.Core, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Snap.v19.1.Extensions, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v19.1.Core, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.SpellChecker.v19.1.Core, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v19.1.UI, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Xpf.Printing.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpo.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v19.1.Extensions, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v19.1.UI, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v19.1.Wizard, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraEditors.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGauges.v19.1.Core, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGrid.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraNavBar.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPivotGrid.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraReports.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraReports.v19.1.Extensions, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraRichEdit.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraScheduler.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v19.1.Core, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraSpellChecker.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraTreeList.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraVerticalGrid.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.QualityTools.Testing.Fakes, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Printing" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Views\GeneralUI\productUI\stockUI\FrmProductTransition.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\GeneralUI\productUI\stockUI\FrmProductTransition.Designer.cs">
+      <DependentUpon>FrmProductTransition.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\_RestaurantUI\compositionUI\CompositionView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\_RestaurantUI\compositionUI\CompositionView.Designer.cs">
+      <DependentUpon>CompositionView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\_ComercialUI\DocumentsUI\compraUI\FrmInvoiceCompra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\_ComercialUI\DocumentsUI\compraUI\FrmInvoiceCompra.Designer.cs">
+      <DependentUpon>FrmInvoiceCompra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\_ComercialUI\ContabilityUI\configsUI\FrmCurrentAccountConfigs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\_ComercialUI\ContabilityUI\configsUI\FrmCurrentAccountConfigs.Designer.cs">
+      <DependentUpon>FrmCurrentAccountConfigs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\_ComercialUI\ContabilityUI\currentAccountsUI\FmrCurrentAccountConfigView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\_ComercialUI\ContabilityUI\currentAccountsUI\FmrCurrentAccountConfigView.Designer.cs">
+      <DependentUpon>FmrCurrentAccountConfigView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\GeneralUI\Frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\GeneralUI\Frm.Designer.cs">
+      <DependentUpon>Frm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\_ComercialUI\ContabilityUI\currentAccountsUI\FrmAccountMovment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\_ComercialUI\ContabilityUI\currentAccountsUI\FrmAccountMovment.Designer.cs">
+      <DependentUpon>FrmAccountMovment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\GeneralUI\productUI\storeUI\FrmArmazem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\GeneralUI\productUI\storeUI\FrmArmazem.Designer.cs">
+      <DependentUpon>FrmArmazem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\_ComercialUI\ContabilityUI\bankUI\FrmBankView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\_ComercialUI\ContabilityUI\bankUI\FrmBankView.Designer.cs">
+      <DependentUpon>FrmBankView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\_ComercialUI\ContabilityUI\cashUI\FrmCaixa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\_ComercialUI\ContabilityUI\cashUI\FrmCaixa.Designer.cs">
+      <DependentUpon>FrmCaixa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\GeneralUI\EntitiesUI\FrmClientReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\GeneralUI\EntitiesUI\FrmClientReport.Designer.cs">
+      <DependentUpon>FrmClientReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\_ComercialUI\ContabilityUI\cashUI\FrmClose.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\_ComercialUI\ContabilityUI\cashUI\FrmClose.Designer.cs">
+      <DependentUpon>FrmClose.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\GeneralUI\EntitiesUI\FrmCompany.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\GeneralUI\EntitiesUI\FrmCompany.Designer.cs">
+      <DependentUpon>FrmCompany.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\_ComercialUI\ContabilityUI\currentAccountsUI\FrmCurrentAccountView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\_ComercialUI\ContabilityUI\currentAccountsUI\FrmCurrentAccountView.Designer.cs">
+      <DependentUpon>FrmCurrentAccountView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ConfigsUI\FrmHowForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\ConfigsUI\FrmHowForm.Designer.cs">
+      <DependentUpon>FrmHowForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\GeneralUI\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\GeneralUI\FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\GeneralUI\EntitiesUI\client-providerUI\FrmCostumersView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\GeneralUI\EntitiesUI\client-providerUI\FrmCostumersView.Designer.cs">
+      <DependentUpon>FrmCostumersView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\GeneralUI\productUI\stockUI\FrmEntryProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\GeneralUI\productUI\stockUI\FrmEntryProducts.Designer.cs">
+      <DependentUpon>FrmEntryProducts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\GeneralUI\EntitiesUI\client-providerUI\FrmFornecedoresView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\GeneralUI\EntitiesUI\client-providerUI\FrmFornecedoresView.Designer.cs">
+      <DependentUpon>FrmFornecedoresView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\_ComercialUI\ContabilityUI\cashUI\frmOpenBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\_ComercialUI\ContabilityUI\cashUI\frmOpenBox.Designer.cs">
+      <DependentUpon>frmOpenBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\GeneralUI\productUI\stockUI\FrmOutProdsView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\GeneralUI\productUI\stockUI\FrmOutProdsView.Designer.cs">
+      <DependentUpon>FrmOutProdsView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\GeneralUI\productUI\stockUI\FrmOutProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\GeneralUI\productUI\stockUI\FrmOutProduct.Designer.cs">
+      <DependentUpon>FrmOutProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ConfigsUI\FrmPassAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\ConfigsUI\FrmPassAdmin.Designer.cs">
+      <DependentUpon>FrmPassAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ConfigsUI\FrmPermissionsView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\ConfigsUI\FrmPermissionsView.Designer.cs">
+      <DependentUpon>FrmPermissionsView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ConfigsUI\FrmPrinter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\ConfigsUI\FrmPrinter.Designer.cs">
+      <DependentUpon>FrmPrinter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\_RestaurantUI\reserveRestaurantUI\FrmReservesView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\_RestaurantUI\reserveRestaurantUI\FrmReservesView.Designer.cs">
+      <DependentUpon>FrmReservesView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\_HotelariaUI\FrmRoomView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\_HotelariaUI\FrmRoomView.Designer.cs">
+      <DependentUpon>FrmRoomView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\GeneralUI\productUI\stockUI\FrmTransferirProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\GeneralUI\productUI\stockUI\FrmTransferirProducts.Designer.cs">
+      <DependentUpon>FrmTransferirProducts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\GeneralUI\EntitiesUI\userUI\FrmUsersView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\GeneralUI\EntitiesUI\userUI\FrmUsersView.Designer.cs">
+      <DependentUpon>FrmUsersView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\GeneralUI\Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\GeneralUI\Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\GeneralUI\Loading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\GeneralUI\Loading.Designer.cs">
+      <DependentUpon>Loading.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\GeneralUI\Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\GeneralUI\Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ConfigsUI\MethodsTable.cs" />
+    <Compile Include="Views\_ComercialUI\DocumentsUI\vendaUI\FrmCreditOrDebitNote.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\_ComercialUI\DocumentsUI\vendaUI\FrmCreditOrDebitNote.Designer.cs">
+      <DependentUpon>FrmCreditOrDebitNote.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\_ComercialUI\DocumentsUI\vendaUI\FrmInvoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\_ComercialUI\DocumentsUI\vendaUI\FrmInvoice.Designer.cs">
+      <DependentUpon>FrmInvoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\_ComercialUI\DocumentsUI\vendaUI\FrmInvoicesForCreditNote.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\_ComercialUI\DocumentsUI\vendaUI\FrmInvoicesForCreditNote.Designer.cs">
+      <DependentUpon>FrmInvoicesForCreditNote.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\_RestaurantUI\configsRestaurant\FamilyRestSave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\_RestaurantUI\configsRestaurant\FamilyRestSave.Designer.cs">
+      <DependentUpon>FamilyRestSave.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\_ComercialUI\PDVComercialUI\configsPDVUI\FrmConfigPOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\_ComercialUI\PDVComercialUI\configsPDVUI\FrmConfigPOS.Designer.cs">
+      <DependentUpon>FrmConfigPOS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\_RestaurantUI\configsRestaurant\FrmFamilyRest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\_RestaurantUI\configsRestaurant\FrmFamilyRest.Designer.cs">
+      <DependentUpon>FrmFamilyRest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\_RestaurantUI\configsRestaurant\FrmFamilySabe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\_RestaurantUI\configsRestaurant\FrmFamilySabe.Designer.cs">
+      <DependentUpon>FrmFamilySabe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\_ComercialUI\PDVComercialUI\olds\FrmPOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\_ComercialUI\PDVComercialUI\olds\FrmPOS.Designer.cs">
+      <DependentUpon>FrmPOS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\_ComercialUI\PDVComercialUI\FrmPosPdv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\_ComercialUI\PDVComercialUI\FrmPosPdv.Designer.cs">
+      <DependentUpon>FrmPosPdv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\_RestaurantUI\posRestaurantUI\FrmPosRestaurant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\_RestaurantUI\posRestaurantUI\FrmPosRestaurant.Designer.cs">
+      <DependentUpon>FrmPosRestaurant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\_ComercialUI\PDVComercialUI\olds\FrmProdutosDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\_ComercialUI\PDVComercialUI\olds\FrmProdutosDetails.Designer.cs">
+      <DependentUpon>FrmProdutosDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\_RestaurantUI\tableRestauarntUI\FrmTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\_RestaurantUI\tableRestauarntUI\FrmTable.Designer.cs">
+      <DependentUpon>FrmTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\_ComercialUI\PDVComercialUI\olds\PDV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\_ComercialUI\PDVComercialUI\olds\PDV.Designer.cs">
+      <DependentUpon>PDV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\_ComercialUI\DocumentsUI\report\FrmInvoicesViewGrid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\_ComercialUI\DocumentsUI\report\FrmInvoicesViewGrid.Designer.cs">
+      <DependentUpon>FrmInvoicesViewGrid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\GeneralUI\EntitiesUI\client-providerUI\report\FrmCustomerReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\GeneralUI\EntitiesUI\client-providerUI\report\FrmCustomerReport.Designer.cs">
+      <DependentUpon>FrmCustomerReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\GeneralUI\productUI\stockUI\report\FrmEntryRelatory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\GeneralUI\productUI\stockUI\report\FrmEntryRelatory.Designer.cs">
+      <DependentUpon>FrmEntryRelatory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ReportUI\FrmPosPrinter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\ReportUI\FrmPosPrinter.Designer.cs">
+      <DependentUpon>FrmPosPrinter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ReportUI\FrmSaftExport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\ReportUI\FrmSaftExport.Designer.cs">
+      <DependentUpon>FrmSaftExport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ReportUI\ReportsViews\Cabecalho.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Views\ReportUI\ReportsViews\Cabecalho.Designer.cs">
+      <DependentUpon>Cabecalho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ReportUI\ReportsViews\entitiesReport\ClienteReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Views\ReportUI\ReportsViews\entitiesReport\ClienteReport.Designer.cs">
+      <DependentUpon>ClienteReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ReportUI\FrmReportView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\ReportUI\FrmReportView.Designer.cs">
+      <DependentUpon>FrmReportView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ReportUI\ReportsViews\comercialReport\cash\CloseReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Views\ReportUI\ReportsViews\comercialReport\cash\CloseReport.Designer.cs">
+      <DependentUpon>CloseReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ReportUI\ReportsViews\restaurantReport\ComandaReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Views\ReportUI\ReportsViews\restaurantReport\ComandaReport.Designer.cs">
+      <DependentUpon>ComandaReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ReportUI\ReportsViews\comercialReport\documents\InvoiceNote.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Views\ReportUI\ReportsViews\comercialReport\documents\InvoiceNote.Designer.cs">
+      <DependentUpon>InvoiceNote.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ReportUI\ReportsViews\comercialReport\contability\MotivosIsencaoReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Views\ReportUI\ReportsViews\comercialReport\contability\MotivosIsencaoReport.Designer.cs">
+      <DependentUpon>MotivosIsencaoReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ReportUI\ReportsViews\comercialReport\cash\OpenReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Views\ReportUI\ReportsViews\comercialReport\cash\OpenReport.Designer.cs">
+      <DependentUpon>OpenReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ReportUI\ReportsViews\comercialReport\documents\PaymentsReciboReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Views\ReportUI\ReportsViews\comercialReport\documents\PaymentsReciboReport.Designer.cs">
+      <DependentUpon>PaymentsReciboReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ReportUI\ReportsViews\comercialReport\documents\POS_InvoiceReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Views\ReportUI\ReportsViews\comercialReport\documents\POS_InvoiceReport.Designer.cs">
+      <DependentUpon>POS_InvoiceReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ReportUI\ReportsViews\comercialReport\documents\POS_Report.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Views\ReportUI\ReportsViews\comercialReport\documents\POS_Report.Designer.cs">
+      <DependentUpon>POS_Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ReportUI\ReportsViews\productsReport\stock\ProductEntryReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Views\ReportUI\ReportsViews\productsReport\stock\ProductEntryReport.Designer.cs">
+      <DependentUpon>ProductEntryReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ReportUI\ReportsViews\entitiesReport\ProviderReporter.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Views\ReportUI\ReportsViews\entitiesReport\ProviderReporter.Designer.cs">
+      <DependentUpon>ProviderReporter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ReportUI\ReportsViews\comercialReport\documents\InvoiceReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Views\ReportUI\ReportsViews\comercialReport\documents\InvoiceReport.Designer.cs">
+      <DependentUpon>InvoiceReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ReportUI\ReportsViews\comercialReport\documents\InvoiceReportPOS.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Views\ReportUI\ReportsViews\comercialReport\documents\InvoiceReportPOS.Designer.cs">
+      <DependentUpon>InvoiceReportPOS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ReportUI\ReportsViews\productsReport\stock\ReatretReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Views\ReportUI\ReportsViews\productsReport\stock\ReatretReport.Designer.cs">
+      <DependentUpon>ReatretReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ReportUI\ReportsViews\comercialReport\documents\ReciboReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Views\ReportUI\ReportsViews\comercialReport\documents\ReciboReport.Designer.cs">
+      <DependentUpon>ReciboReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\_ComercialUI\ContabilityUI\bankUI\FrmBankSave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\_ComercialUI\ContabilityUI\bankUI\FrmBankSave.Designer.cs">
+      <DependentUpon>FrmBankSave.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\_ComercialUI\ContabilityUI\taxUI\FrmCadTaxa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\_ComercialUI\ContabilityUI\taxUI\FrmCadTaxa.Designer.cs">
+      <DependentUpon>FrmCadTaxa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\GeneralUI\productUI\categoryUI\FrmCategorySave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\GeneralUI\productUI\categoryUI\FrmCategorySave.Designer.cs">
+      <DependentUpon>FrmCategorySave.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\GeneralUI\productUI\categoryUI\FrmCategoy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\GeneralUI\productUI\categoryUI\FrmCategoy.Designer.cs">
+      <DependentUpon>FrmCategoy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\_ComercialUI\ContabilityUI\currentAccountsUI\FrmCurrentAccountSave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\_ComercialUI\ContabilityUI\currentAccountsUI\FrmCurrentAccountSave.Designer.cs">
+      <DependentUpon>FrmCurrentAccountSave.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\GeneralUI\EntitiesUI\client-providerUI\FrmFornecedorSave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\GeneralUI\EntitiesUI\client-providerUI\FrmFornecedorSave.Designer.cs">
+      <DependentUpon>FrmFornecedorSave.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\GeneralUI\productUI\FrmProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\GeneralUI\productUI\FrmProducts.Designer.cs">
+      <DependentUpon>FrmProducts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\_HotelariaUI\FrmReserveRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\_HotelariaUI\FrmReserveRoom.Designer.cs">
+      <DependentUpon>FrmReserveRoom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\_RestaurantUI\reserveRestaurantUI\FrmReserveSave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\_RestaurantUI\reserveRestaurantUI\FrmReserveSave.Designer.cs">
+      <DependentUpon>FrmReserveSave.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\_HotelariaUI\FrmRoomReserve.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\_HotelariaUI\FrmRoomReserve.Designer.cs">
+      <DependentUpon>FrmRoomReserve.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\_ComercialUI\FrmSerieSave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\_ComercialUI\FrmSerieSave.Designer.cs">
+      <DependentUpon>FrmSerieSave.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\GeneralUI\productUI\storeUI\FrmStoreSave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\GeneralUI\productUI\storeUI\FrmStoreSave.Designer.cs">
+      <DependentUpon>FrmStoreSave.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\GeneralUI\productUI\FrmProdutoView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\GeneralUI\productUI\FrmProdutoView.Designer.cs">
+      <DependentUpon>FrmProdutoView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\_RestaurantUI\tableRestauarntUI\FrmTableSave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\_RestaurantUI\tableRestauarntUI\FrmTableSave.Designer.cs">
+      <DependentUpon>FrmTableSave.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\GeneralUI\FrmUserFirstLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\GeneralUI\FrmUserFirstLogin.Designer.cs">
+      <DependentUpon>FrmUserFirstLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\GeneralUI\EntitiesUI\userUI\FrmUserSave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\GeneralUI\EntitiesUI\userUI\FrmUserSave.Designer.cs">
+      <DependentUpon>FrmUserSave.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\GeneralUI\productUI\stockUI\FrmProductTransition.resx">
+      <DependentUpon>FrmProductTransition.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\_RestaurantUI\compositionUI\CompositionView.resx">
+      <DependentUpon>CompositionView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\_ComercialUI\DocumentsUI\compraUI\FrmInvoiceCompra.resx">
+      <DependentUpon>FrmInvoiceCompra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\_ComercialUI\ContabilityUI\configsUI\FrmCurrentAccountConfigs.resx">
+      <DependentUpon>FrmCurrentAccountConfigs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\_ComercialUI\ContabilityUI\currentAccountsUI\FmrCurrentAccountConfigView.resx">
+      <DependentUpon>FmrCurrentAccountConfigView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\GeneralUI\Frm.resx">
+      <DependentUpon>Frm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\_ComercialUI\ContabilityUI\currentAccountsUI\FrmAccountMovment.resx">
+      <DependentUpon>FrmAccountMovment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\GeneralUI\productUI\storeUI\FrmArmazem.resx">
+      <DependentUpon>FrmArmazem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\_ComercialUI\ContabilityUI\bankUI\FrmBankView.resx">
+      <DependentUpon>FrmBankView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\_ComercialUI\ContabilityUI\cashUI\FrmCaixa.resx">
+      <DependentUpon>FrmCaixa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\GeneralUI\EntitiesUI\FrmClientReport.resx">
+      <DependentUpon>FrmClientReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\_ComercialUI\ContabilityUI\cashUI\FrmClose.resx">
+      <DependentUpon>FrmClose.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\GeneralUI\EntitiesUI\FrmCompany.resx">
+      <DependentUpon>FrmCompany.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\_ComercialUI\ContabilityUI\currentAccountsUI\FrmCurrentAccountView.resx">
+      <DependentUpon>FrmCurrentAccountView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ConfigsUI\FrmHowForm.resx">
+      <DependentUpon>FrmHowForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\GeneralUI\FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\GeneralUI\EntitiesUI\client-providerUI\FrmCostumersView.resx">
+      <DependentUpon>FrmCostumersView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\GeneralUI\productUI\stockUI\FrmEntryProducts.resx">
+      <DependentUpon>FrmEntryProducts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\GeneralUI\EntitiesUI\client-providerUI\FrmFornecedoresView.resx">
+      <DependentUpon>FrmFornecedoresView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\_ComercialUI\ContabilityUI\cashUI\frmOpenBox.resx">
+      <DependentUpon>frmOpenBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\GeneralUI\productUI\stockUI\FrmOutProdsView.resx">
+      <DependentUpon>FrmOutProdsView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\GeneralUI\productUI\stockUI\FrmOutProduct.resx">
+      <DependentUpon>FrmOutProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ConfigsUI\FrmPassAdmin.resx">
+      <DependentUpon>FrmPassAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ConfigsUI\FrmPermissionsView.resx">
+      <DependentUpon>FrmPermissionsView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ConfigsUI\FrmPrinter.resx">
+      <DependentUpon>FrmPrinter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\_RestaurantUI\reserveRestaurantUI\FrmReservesView.resx">
+      <DependentUpon>FrmReservesView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\_HotelariaUI\FrmRoomView.resx">
+      <DependentUpon>FrmRoomView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\GeneralUI\productUI\stockUI\FrmTransferirProducts.resx">
+      <DependentUpon>FrmTransferirProducts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\GeneralUI\EntitiesUI\userUI\FrmUsersView.resx">
+      <DependentUpon>FrmUsersView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\GeneralUI\Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\GeneralUI\Loading.resx">
+      <DependentUpon>Loading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\GeneralUI\Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\_ComercialUI\DocumentsUI\vendaUI\FrmCreditOrDebitNote.resx">
+      <DependentUpon>FrmCreditOrDebitNote.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\_ComercialUI\DocumentsUI\vendaUI\FrmInvoice.resx">
+      <DependentUpon>FrmInvoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\_ComercialUI\DocumentsUI\vendaUI\FrmInvoicesForCreditNote.resx">
+      <DependentUpon>FrmInvoicesForCreditNote.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\_RestaurantUI\configsRestaurant\FamilyRestSave.resx">
+      <DependentUpon>FamilyRestSave.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\_ComercialUI\PDVComercialUI\configsPDVUI\FrmConfigPOS.resx">
+      <DependentUpon>FrmConfigPOS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\_RestaurantUI\configsRestaurant\FrmFamilyRest.resx">
+      <DependentUpon>FrmFamilyRest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\_RestaurantUI\configsRestaurant\FrmFamilySabe.resx">
+      <DependentUpon>FrmFamilySabe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\_ComercialUI\PDVComercialUI\olds\FrmPOS.resx">
+      <DependentUpon>FrmPOS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\_ComercialUI\PDVComercialUI\FrmPosPdv.resx">
+      <DependentUpon>FrmPosPdv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\_RestaurantUI\posRestaurantUI\FrmPosRestaurant.resx">
+      <DependentUpon>FrmPosRestaurant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\_ComercialUI\PDVComercialUI\olds\FrmProdutosDetails.resx">
+      <DependentUpon>FrmProdutosDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\_RestaurantUI\tableRestauarntUI\FrmTable.resx">
+      <DependentUpon>FrmTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\_ComercialUI\PDVComercialUI\olds\PDV.resx">
+      <DependentUpon>PDV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\_ComercialUI\DocumentsUI\report\FrmInvoicesViewGrid.resx">
+      <DependentUpon>FrmInvoicesViewGrid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\GeneralUI\EntitiesUI\client-providerUI\report\FrmCustomerReport.resx">
+      <DependentUpon>FrmCustomerReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\GeneralUI\productUI\stockUI\report\FrmEntryRelatory.resx">
+      <DependentUpon>FrmEntryRelatory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ReportUI\FrmPosPrinter.resx">
+      <DependentUpon>FrmPosPrinter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ReportUI\FrmSaftExport.resx">
+      <DependentUpon>FrmSaftExport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ReportUI\ReportsViews\Cabecalho.resx">
+      <DependentUpon>Cabecalho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ReportUI\ReportsViews\entitiesReport\ClienteReport.resx">
+      <DependentUpon>ClienteReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ReportUI\FrmReportView.resx">
+      <DependentUpon>FrmReportView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ReportUI\ReportsViews\comercialReport\cash\CloseReport.resx">
+      <DependentUpon>CloseReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ReportUI\ReportsViews\restaurantReport\ComandaReport.resx">
+      <DependentUpon>ComandaReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ReportUI\ReportsViews\comercialReport\documents\InvoiceNote.resx">
+      <DependentUpon>InvoiceNote.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ReportUI\ReportsViews\comercialReport\contability\MotivosIsencaoReport.resx">
+      <DependentUpon>MotivosIsencaoReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ReportUI\ReportsViews\comercialReport\cash\OpenReport.resx">
+      <DependentUpon>OpenReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ReportUI\ReportsViews\comercialReport\documents\PaymentsReciboReport.resx">
+      <DependentUpon>PaymentsReciboReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ReportUI\ReportsViews\comercialReport\documents\POS_InvoiceReport.resx">
+      <DependentUpon>POS_InvoiceReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ReportUI\ReportsViews\comercialReport\documents\POS_Report.resx">
+      <DependentUpon>POS_Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ReportUI\ReportsViews\productsReport\stock\ProductEntryReport.resx">
+      <DependentUpon>ProductEntryReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ReportUI\ReportsViews\entitiesReport\ProviderReporter.resx">
+      <DependentUpon>ProviderReporter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ReportUI\ReportsViews\comercialReport\documents\InvoiceReport.resx">
+      <DependentUpon>InvoiceReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ReportUI\ReportsViews\comercialReport\documents\InvoiceReportPOS.resx">
+      <DependentUpon>InvoiceReportPOS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ReportUI\ReportsViews\productsReport\stock\ReatretReport.resx">
+      <DependentUpon>ReatretReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ReportUI\ReportsViews\comercialReport\documents\ReciboReport.resx">
+      <DependentUpon>ReciboReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\_ComercialUI\ContabilityUI\bankUI\FrmBankSave.resx">
+      <DependentUpon>FrmBankSave.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\_ComercialUI\ContabilityUI\taxUI\FrmCadTaxa.resx">
+      <DependentUpon>FrmCadTaxa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\GeneralUI\productUI\categoryUI\FrmCategorySave.resx">
+      <DependentUpon>FrmCategorySave.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\GeneralUI\productUI\categoryUI\FrmCategoy.resx">
+      <DependentUpon>FrmCategoy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\_ComercialUI\ContabilityUI\currentAccountsUI\FrmCurrentAccountSave.resx">
+      <DependentUpon>FrmCurrentAccountSave.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\GeneralUI\EntitiesUI\client-providerUI\FrmFornecedorSave.resx">
+      <DependentUpon>FrmFornecedorSave.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\GeneralUI\productUI\FrmProducts.resx">
+      <DependentUpon>FrmProducts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\_HotelariaUI\FrmReserveRoom.resx">
+      <DependentUpon>FrmReserveRoom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\_RestaurantUI\reserveRestaurantUI\FrmReserveSave.resx">
+      <DependentUpon>FrmReserveSave.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\_HotelariaUI\FrmRoomReserve.resx">
+      <DependentUpon>FrmRoomReserve.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\_ComercialUI\FrmSerieSave.resx">
+      <DependentUpon>FrmSerieSave.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\GeneralUI\productUI\storeUI\FrmStoreSave.resx">
+      <DependentUpon>FrmStoreSave.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\GeneralUI\productUI\FrmProdutoView.resx">
+      <DependentUpon>FrmProdutoView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\_RestaurantUI\tableRestauarntUI\FrmTableSave.resx">
+      <DependentUpon>FrmTableSave.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\GeneralUI\FrmUserFirstLogin.resx">
+      <DependentUpon>FrmUserFirstLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\GeneralUI\EntitiesUI\userUI\FrmUserSave.resx">
+      <DependentUpon>FrmUserSave.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\DataSources\Domain.Domain.Entities.Customer.datasource" />
+    <None Include="Properties\DataSources\Domain.Domain.Entities.Product.datasource" />
+    <None Include="Properties\DataSources\Domain.Domain.Entities.ProductAssistant.Category.datasource" />
+    <None Include="Properties\DataSources\Domain.Domain.Entities.Table.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Appplication.Services\Appplication.csproj">
+      <Project>{0da94c03-b897-4485-802a-a2699d041179}</Project>
+      <Name>Appplication</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Domain.Domain\Domain.Domain.csproj">
+      <Project>{bd60dcec-373c-4d12-b9c5-1546ee5ef77f}</Project>
+      <Name>Domain.Domain</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3d-background-with-white-abstract-vector.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\open.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shops.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\team.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\man.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\file.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\employee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boxes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0068a7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cashier %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cash-machine %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add Image_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close Window_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\enablesearch1.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\actions_addcircled.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shipment.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\actions_refresh.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shipment1.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\singlepageview.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shopping_shoppingcart.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Controller\" />
+    <Folder Include="Views\ReportUI\ReportsViews\hotelaryReport\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_Delete_2.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\program2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kissclipart-speech-balloon-geometric-shape-15c848a0774d7414.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kissclipart-speech-balloon-geometric-shape-15c848a0774d74141.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_Create_Document_600px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cashier %282%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_Book_600px_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\errorbarswithpercentage.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bo_document.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img6jpg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\White-background-overlapping-graphics-vector.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_Ingredients_256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\differentoddevenpages_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\News_250px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Trash_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bo_appearance.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Table_52px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Table_52_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Table_52_blue1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Undo_104px.png" />
+    <None Include="Resources\Calendar_48px.png" />
+    <None Include="Resources\Door_40px.png" />
+    <None Include="Resources\Door Opened_40px.png" />
+    <None Include="Resources\next.svg" />
+    <None Include="Resources\Forward Arrow_104px.png" />
+    <Content Include="AnyConv.com__A %281%29.ico" />
+    <Content Include="AtonIco.ico" />
+    <Content Include="logo-base.ico" />
+    <Content Include="onlineshop_78377.ico" />
+    <Content Include="Resources\logo-base.png" />
+    <Content Include="Resources\logo_base.png" />
+    <Content Include="Resources\table_red.png" />
+    <None Include="Resources\table_red1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
