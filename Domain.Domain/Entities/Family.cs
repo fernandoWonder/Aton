@@ -11,5 +11,7 @@ namespace Domain.Domain.Entities
         public int Id { get; set; }
         public string family { get; set; }
         public virtual ICollection<FamilyRest> familias  { get;set; }
+        public bool PosRetail { get; set; }
+        public bool Rest { get; set; }
     }
 }
